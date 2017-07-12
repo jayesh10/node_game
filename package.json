@@ -1,0 +1,15 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "developed game using node",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodemon"
+  ],
+  "author": "",
+  "license": "ISC"
+}
